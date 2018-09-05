@@ -23,7 +23,7 @@
 				<input type="submit" name="login_btn" value="Log In">
 				<input type="submit" name="signup_btn" value="Sign Up">
 				<br>
-				<input type="button" onclick="window.location = '<?php echo $loginurl ?>'" value="Log In with Facebook">
+				<input type="button" onclick="window.location = '<?php echo $loginurl ?>'" value="LogIn/Signup with Facebook">
 			</form>
 		</div>
 	</div>
